@@ -11,6 +11,19 @@
 		DD1096C42B3F13ED00FA8296 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1096C32B3F13ED00FA8296 /* ContentView.swift */; };
 		DD1096C62B3F13EE00FA8296 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD1096C52B3F13EE00FA8296 /* Assets.xcassets */; };
 		DD1096C92B3F13EE00FA8296 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD1096C82B3F13EE00FA8296 /* Preview Assets.xcassets */; };
+		DD1097502B3F15CE00FA8296 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD10974F2B3F15CE00FA8296 /* Extensions.swift */; };
+		DD1097522B3F168B00FA8296 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097512B3F168B00FA8296 /* HomeView.swift */; };
+		DD1097542B3F1DFD00FA8296 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097532B3F1DFD00FA8296 /* TabBar.swift */; };
+		DD1097562B3F210900FA8296 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097552B3F210900FA8296 /* Shapes.swift */; };
+		DD10975C2B3F2A7E00FA8296 /* BottomSheet in Frameworks */ = {isa = PBXBuildFile; productRef = DD10975B2B3F2A7E00FA8296 /* BottomSheet */; };
+		DD10975F2B3F2B4400FA8296 /* ForecastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD10975E2B3F2B4400FA8296 /* ForecastView.swift */; };
+		DD1097612B3F2DD900FA8296 /* Blur.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097602B3F2DD900FA8296 /* Blur.swift */; };
+		DD1097632B3F431F00FA8296 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097622B3F431F00FA8296 /* SegmentedControl.swift */; };
+		DD1097652B3F45BF00FA8296 /* ForecastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097642B3F45BF00FA8296 /* ForecastModel.swift */; };
+		DD1097672B3F4C1A00FA8296 /* ForecastCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097662B3F4C1A00FA8296 /* ForecastCard.swift */; };
+		DD1097692B3F554100FA8296 /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1097682B3F554100FA8296 /* NavigationBar.swift */; };
+		DD10976B2B3F56AF00FA8296 /* WeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD10976A2B3F56AF00FA8296 /* WeatherView.swift */; };
+		DD10976D2B3F579E00FA8296 /* WeatherWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD10976C2B3F579E00FA8296 /* WeatherWidget.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,18 @@
 		DD1096C32B3F13ED00FA8296 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DD1096C52B3F13EE00FA8296 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD1096C82B3F13EE00FA8296 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DD10974F2B3F15CE00FA8296 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		DD1097512B3F168B00FA8296 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		DD1097532B3F1DFD00FA8296 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		DD1097552B3F210900FA8296 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		DD10975E2B3F2B4400FA8296 /* ForecastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastView.swift; sourceTree = "<group>"; };
+		DD1097602B3F2DD900FA8296 /* Blur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blur.swift; sourceTree = "<group>"; };
+		DD1097622B3F431F00FA8296 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
+		DD1097642B3F45BF00FA8296 /* ForecastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastModel.swift; sourceTree = "<group>"; };
+		DD1097662B3F4C1A00FA8296 /* ForecastCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastCard.swift; sourceTree = "<group>"; };
+		DD1097682B3F554100FA8296 /* NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBar.swift; sourceTree = "<group>"; };
+		DD10976A2B3F56AF00FA8296 /* WeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherView.swift; sourceTree = "<group>"; };
+		DD10976C2B3F579E00FA8296 /* WeatherWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherWidget.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD10975C2B3F2A7E00FA8296 /* BottomSheet in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,7 +78,9 @@
 			isa = PBXGroup;
 			children = (
 				DD1096C12B3F13ED00FA8296 /* WeatherAppIlApp.swift */,
-				DD1096C32B3F13ED00FA8296 /* ContentView.swift */,
+				DD1097482B3F148300FA8296 /* Utils */,
+				DD1097472B3F147B00FA8296 /* Models */,
+				DD1097462B3F147400FA8296 /* Views */,
 				DD1096C52B3F13EE00FA8296 /* Assets.xcassets */,
 				DD1096C72B3F13EE00FA8296 /* Preview Content */,
 			);
@@ -65,6 +93,72 @@
 				DD1096C82B3F13EE00FA8296 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DD1097462B3F147400FA8296 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DD1097492B3F148A00FA8296 /* Main */,
+				DD10974A2B3F149000FA8296 /* Navigation */,
+				DD10974B2B3F149A00FA8296 /* Detail */,
+				DD10974C2B3F149F00FA8296 /* Components */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DD1097472B3F147B00FA8296 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DD1097642B3F45BF00FA8296 /* ForecastModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DD1097482B3F148300FA8296 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				DD10974F2B3F15CE00FA8296 /* Extensions.swift */,
+				DD1097552B3F210900FA8296 /* Shapes.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		DD1097492B3F148A00FA8296 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				DD1096C32B3F13ED00FA8296 /* ContentView.swift */,
+				DD1097512B3F168B00FA8296 /* HomeView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		DD10974A2B3F149000FA8296 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				DD1097532B3F1DFD00FA8296 /* TabBar.swift */,
+				DD1097682B3F554100FA8296 /* NavigationBar.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		DD10974B2B3F149A00FA8296 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				DD10975E2B3F2B4400FA8296 /* ForecastView.swift */,
+				DD10976A2B3F56AF00FA8296 /* WeatherView.swift */,
+			);
+			path = Detail;
+			sourceTree = "<group>";
+		};
+		DD10974C2B3F149F00FA8296 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				DD1097602B3F2DD900FA8296 /* Blur.swift */,
+				DD1097622B3F431F00FA8296 /* SegmentedControl.swift */,
+				DD1097662B3F4C1A00FA8296 /* ForecastCard.swift */,
+				DD10976C2B3F579E00FA8296 /* WeatherWidget.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +177,9 @@
 			dependencies = (
 			);
 			name = WeatherAppIl;
+			packageProductDependencies = (
+				DD10975B2B3F2A7E00FA8296 /* BottomSheet */,
+			);
 			productName = WeatherAppIl;
 			productReference = DD1096BE2B3F13ED00FA8296 /* WeatherAppIl.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +208,9 @@
 				Base,
 			);
 			mainGroup = DD1096B52B3F13ED00FA8296;
+			packageReferences = (
+				DD10975A2B3F2A7E00FA8296 /* XCRemoteSwiftPackageReference "BottomSheet" */,
+			);
 			productRefGroup = DD1096BF2B3F13ED00FA8296 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,8 +237,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD10976D2B3F579E00FA8296 /* WeatherWidget.swift in Sources */,
+				DD1097672B3F4C1A00FA8296 /* ForecastCard.swift in Sources */,
 				DD1096C42B3F13ED00FA8296 /* ContentView.swift in Sources */,
+				DD1097632B3F431F00FA8296 /* SegmentedControl.swift in Sources */,
+				DD1097522B3F168B00FA8296 /* HomeView.swift in Sources */,
+				DD1097612B3F2DD900FA8296 /* Blur.swift in Sources */,
+				DD10976B2B3F56AF00FA8296 /* WeatherView.swift in Sources */,
+				DD1097502B3F15CE00FA8296 /* Extensions.swift in Sources */,
 				DD1096C22B3F13ED00FA8296 /* WeatherAppIlApp.swift in Sources */,
+				DD10975F2B3F2B4400FA8296 /* ForecastView.swift in Sources */,
+				DD1097542B3F1DFD00FA8296 /* TabBar.swift in Sources */,
+				DD1097652B3F45BF00FA8296 /* ForecastModel.swift in Sources */,
+				DD1097562B3F210900FA8296 /* Shapes.swift in Sources */,
+				DD1097692B3F554100FA8296 /* NavigationBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +456,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		DD10975A2B3F2A7E00FA8296 /* XCRemoteSwiftPackageReference "BottomSheet" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Wouter125/BottomSheet";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.4.5;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		DD10975B2B3F2A7E00FA8296 /* BottomSheet */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = DD10975A2B3F2A7E00FA8296 /* XCRemoteSwiftPackageReference "BottomSheet" */;
+			productName = BottomSheet;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = DD1096B62B3F13ED00FA8296 /* Project object */;
 }
